@@ -1,6 +1,5 @@
 ### dependency
 tqdm
-dvc
 pandas
 numpy
 PyYAML
